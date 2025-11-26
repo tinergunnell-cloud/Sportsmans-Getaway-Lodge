@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import { EditModeProvider, useEditMode } from "./components/admin/EditModeContext";
+import { EditModeProvider, useEditMode } from "src/components/admin/EditModeContext";
 import { Switch } from "@/components/ui/switch";
 import { Label } from "@/components/ui/label";
 
